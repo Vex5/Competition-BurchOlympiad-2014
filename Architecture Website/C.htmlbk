@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang = "eng">
+
+
+<head>
+
+<title> Creations </title>
+
+<link rel ="stylesheet" href="CSScode.css" title="style1" media="screen">
+  
+
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="C_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="C_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="C_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="C_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="C_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="C_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+
+</head>
+
+<body background = "Images/Backgrounds/BackgroundIndex.GIF">
+
+<p>a</p>	
+	
+	
+
+
+<div style = "position: absolute; left: 477px; top: 173px;">
+	<img src = "Images/Decor/LRuler.GIF"></img>
+</div>
+
+<div style = "position: absolute; left: 1393px; top: 173px;">
+	<img src = "Images/Decor/RRuler.GIF"></img>
+</div>
+
+<!-- TOP TABS BEGIN -->
+
+<div style = "position:absolute; left: 600px; top: 120px;" id = "nav" class = "tabs">
+
+<a href = "Home.html" style = "text-decoration: none"><h><font color = "baceeb" size = "6">Home</h>		
+</font></a>
+
+<h><font color = "baceeb" size = "6">  /  </h></font>
+
+<a href = "Index.html" style = "text-decoration: none"><h><font color = "baceeb" size = "6">Language</h></font></a>
+
+<h><font color = "baceeb" size = "6">  /  </h></font>
+
+<h><font color = "baceeb" size = "6">Info </h></font>
+
+</div>
+
+
+</div>
+
+<!-- TOP TABS END -->
+
+
+</html>
+</body

@@ -1,0 +1,189 @@
+@font-face { font-family: PWScratchedfontMedium; src: url('Fonts/Architecture font_1.TTF'); }
+@font-face { font-family: Incised901 Lt BT Light; src: url('Fonts/incised901-lt-bt-light.TTF'); }
+@font-face { font-family: Incised901 BdCn BT Bold; src: url('Fonts/Incised901 BdCn BT Bold.TTF'); }
+@font-face { font-family: ITCEDSCR; src: url('Fonts/ITCEDSCR.TTF'); }
+@font-face { font-family: Museo Slab; src: url('Fonts/VNF_Museo Slab 500.TTF'); }
+@font-face { font-family: Excess; src: url('Fonts/excess.TTF'); }
+@font-face { font-family: comic; src: url('Fonts/comic.TTF'); }
+@font-face { font-family: centaur; src: url('Fonts/CENTAUR.TTF'); }
+@font-face { font-family: times; src: url('Fonts/times.TTF'); }
+
+p4{
+font-family: times;
+}
+
+p1{
+font-family: PWScratchedfontMedium;
+}
+body
+{
+background-repeat: no-repeat;
+}
+h{
+font-family:  Incised901 BdCn BT Bold;
+}
+p2{
+font-family: ITCEDSCR;
+}
+nav a:hover{
+font-size: 120%;
+}
+p3{
+font-family:Museo Slab;
+}
+p4{
+font-family:Excess;
+}
+
+.SB{
+background-color:rgba(255,255,255,0.7);
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -5000;
+}
+
+.pj{
+font-family: centaur;
+}
+
+body { margin:0; padding:0}
+#wrapper {width:1080px; margin:auto;}
+
+/*CREATIONS IMAGE*/
+
+.C{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.C:hover{
+transform:translate(100px);
+-webkit-transform:translate(-415px);
+-moz-transition:translate(-415px);
+-o-transition:translate(-415px);
+}
+
+/*CREATIONS IMAGE*/
+
+/*Famous architects image*/
+.FA{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.FA:hover{
+transform:translate(100px);
+-webkit-transform:translate(-415px);
+-moz-transition:translate(-415px);
+-o-transition:translate(-415px);
+}
+
+/*Famous architects image*/
+
+/*HISTORY OF ARCHITECTURE IMAGE*/
+.HoA{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.HoA:hover{
+transform:translate(100px);
+-webkit-transform:translate(-415px);
+-moz-transition:translate(-415px);
+-o-transition:translate(-415px);
+}
+/*HISTORY OF ARCHITECTURE IMAGE*/
+/*MODERN ARCHITECTURE IMAGE*/
+.MA{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.MA:hover{
+transform:translate(100px);
+-webkit-transform:translate(415px);
+-moz-transition:translate(415px);
+-o-transition:translate(415px);
+}
+/*MODERN ARCHITECTURE IMAGE*/
+/*TECHNOLOGY IMAGE*/
+.T{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.T:hover{
+transform:translate(100px);
+-webkit-transform:translate(415px);
+-moz-transition:translate(415px);
+-o-transition:translate(415px);
+}
+/*TECHNOLOGY IMAGE*/
+/*ARCH. IN BIH IMAGE*/
+.AiBiH{
+transition: width 1s;
+-webkit-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-moz-transition:width 1s, height 1s, -webkit-transform 1.5s;
+-o-transition:width 1s, height 1s, -webkit-transform 1.5s;
+}
+
+.AiBiH:hover{
+transform:translate(100px);
+-webkit-transform:translate(415px);
+-moz-transition:translate(415px);
+-o-transition:translate(415px);
+}
+/*ARCH. IN BIH IMAGE*/
+/* TRANSITION IMAGE */
+#cf {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1.5s ease-in-out;
+  -moz-transition: opacity 1.5s ease-in-out;
+  -o-transition: opacity 1.5s ease-in-out;
+  transition: opacity 1.5s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+
+.NeoTab {
+background-image: url("Images/HoAImages/NeolithicTab.PNG")
+-moz-transition: all 0.5s; 
+-webkit-transition: all 0.5s; 
+-o-transition: all 0.5s; 
+transition: all 0.5s;
+}
+
+.NeoTab:hover {
+background-image: url("Images/HoAImages/NeolithicBig.PNG")
+}
+
+/* TRANSITION IMAGE */
+
+/*ARCH. IN BIH IMAGE*/
+
